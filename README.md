@@ -10,4 +10,4 @@
 
 4. Netbeans
 
-some installers and libraries already in [cs@umt telegram group](t.me/umtcs)
+some installers and libraries already in [cs@umt telegram group](https://t.me/umtcs)
