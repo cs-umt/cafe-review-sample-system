@@ -10,8 +10,11 @@ import java.sql.SQLException;
 
 public class DBConnection {
     
+    // database url = jdbc:mysql://localhost:<port_no>/<name_of_database_on_xampp>
     private static final String URL = "jdbc:mysql://localhost:3306/cafereviewsystem";
     private static final String DRIVER_NAME = "com.mysql.jdbc.Driver";
+    
+    // xampp password, check your xampp username and password for mysql
     private static final String USERNAME = "root";
     private static final String PASSWORD = "admin";
     
