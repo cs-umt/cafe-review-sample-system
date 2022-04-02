@@ -8,7 +8,7 @@
 
 3. Xampp
 
-4. Netbeans
+4. Netbeans 12.5
 
 some installers and libraries already in [cs@umt telegram group](https://t.me/umtcs)
 
