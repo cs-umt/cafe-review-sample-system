@@ -11,3 +11,7 @@
 4. Netbeans
 
 some installers and libraries already in [cs@umt telegram group](https://t.me/umtcs)
+
+## Todo after cloning the project
+
+1. Check username, password and url for db configuration at `src/java/database/DBConnection.java`
