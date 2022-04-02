@@ -15,3 +15,5 @@ some installers and libraries already in [cs@umt telegram group](https://t.me/um
 ## Todo after cloning the project
 
 1. Check username, password and url for db configuration at `src/java/database/DBConnection.java`
+
+2. Add `mysql-connector-java-5.1.48.jar` library
