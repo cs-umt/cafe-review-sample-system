@@ -2,13 +2,13 @@
 
 ## Requirements
 
-1. Tomcat Server
+1. Netbeans 12.5
 
-2. my-sql connector
+2. Xampp
 
-3. Xampp
+3. Tomcat Server
 
-4. Netbeans 12.5
+4. MySQL connector
 
 some installers and libraries already in [cs@umt telegram group](https://t.me/umtcs)
 
